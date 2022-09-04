@@ -1,28 +1,20 @@
-# pharma
+About
+=====
+`Pharma` is a simple Java desktop application based on Swing
+Application Framework for medicament management.
 
-> ⚠️ This project was developed in 2010 and is no longer maintained ⚠️
+Version
+=====
+1.0
 
-![](https://img.shields.io/badge/java-1.5-blue)
+* medicament management
 
-`Pharma` is a simple Java desktop application based on Swing Application
-Framework for medicament management.
+Developed By
+============
+* Tiago Santos - <tvcsantos@gmail.com>
 
-## Usage
-
-If you want to execute the pre-compiled version you can do it by issuing the
-following commands:
-
-```shell
-make create-release
-cd release
-java -jar Pharma.jar
-```
-
-For more information on the project refer to
-[here](release_template/README.markdown).
-
-## License
-
+License
+=======
     Pharma - Simple Java Swing application for medicament management.
     Copyright (C) 2010  Tiago Santos
 
@@ -38,5 +30,3 @@ For more information on the project refer to
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-For the full license text refer to [LICENSE.md](LICENSE.md)
